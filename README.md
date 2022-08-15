@@ -1,9 +1,11 @@
 ### Hi there 👋 I'm Derek
 🔭 I’m currently working on transitioning from business management into data science
+
 🌱 I’m currently learning GCP/AWS environments
+
 😄 Besides data and ML, my hobbies include disc golf, video games, bowling, being a husband and father to my 3 kids
 
-My passion is solving business problems with data, especially if I get to work with customers or other external stakeholders. Below are pinned some of my favorite projects involving machine learning, data analysis and visualizations.
+⚡ My passion is solving business problems with data, especially if I get to work with customers or other external stakeholders. Below are pinned some of my favorite projects involving machine learning, data analysis and visualizations.
 
 📫 How to reach me: dpowell02@gmail.com
 
