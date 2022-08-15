@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm Derek
+🔭 I’m currently working on transitioning from business management into data science
+🌱 I’m currently learning GCP/AWS environments
+😄 Besides data and ML, my hobbies include disc golf, video games, bowling, being a husband and father to my 3 kids
+
+My passion is solving business problems with data, especially if I get to work with customers or other external stakeholders. Below are pinned some of my favorite projects involving machine learning, data analysis and visualizations.
+
+📫 How to reach me: dpowell02@gmail.com
 
 <!--
 **dpowell022/dpowell022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
